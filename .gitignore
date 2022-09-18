@@ -1,3 +1,7 @@
 #
 GuardianScrapper/__pycache__/
 GuardianScrapper/spiders/__pycache__/
+GuardianScrapper/.idea/
+GuardianScrapper/.scrapy/.DS_Store
+GuardianScrapper/.scrapy/httpcache/.DS_Store
+GuardianScrapper/.DS_Store/
