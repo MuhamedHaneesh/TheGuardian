@@ -1,0 +1,22 @@
+Content-Length: 113439
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Etag: W/"hash-7162208767383514439"
+Onion-Location: https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/artanddesign/gallery/2022/aug/31/spain-la-tomatina-tomato-fight-festival-in-pictures
+Accept-Ranges: bytes
+Date: Sun, 18 Sep 2022 08:54:21 GMT
+Age: 3527
+Set-Cookie: GU_mvt_id=600541; expires=Sat, 17 Dec 2022 08:54:21 GMT; path=/; domain=.theguardian.com; Secure
+Set-Cookie: GU_geo_country=AE; path=/; Secure
+X-Timer: S1663491261.442575,VS0,VE117
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:; child-src https: blob:; object-src 'none'; base-uri https://*.gracenote.com
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+Permissions-Policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+X-Gu-Edition: int
+Cache-Control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private,no-transform
+Vary: Accept-Encoding,User-Agent

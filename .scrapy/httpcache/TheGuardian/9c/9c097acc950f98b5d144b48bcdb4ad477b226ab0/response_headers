@@ -1,0 +1,24 @@
+Content-Length: 45733
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Etag: W/"hash-4764850063559013340"
+Link: <https://assets.guim.co.uk/>; rel=preconnect,<https://i.guim.co.uk>; rel=preconnect,<https://j.ophan.co.uk>; rel=preconnect,<https://ophan.theguardian.com>; rel=preconnect,<https://api.nextgen.guardianapps.co.uk>; rel=preconnect,<https://hits-secure.theguardian.com>; rel=preconnect,<https://interactive.guim.co.uk>; rel=preconnect,<https://phar.gu-web.net>; rel=preconnect,<https://static.theguardian.com>; rel=preconnect,<https://support.theguardian.com>; rel=preconnect
+Onion-Location: https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/commentisfree/2022/sep/13/royals-commonwealth-debts-colonies-monarchy
+X-Gu-Dotcomponents: true
+Accept-Ranges: bytes
+Date: Sun, 18 Sep 2022 08:53:44 GMT
+Age: 0
+Set-Cookie: GU_mvt_id=600541; expires=Sat, 17 Dec 2022 08:53:44 GMT; path=/; domain=.theguardian.com; Secure
+Set-Cookie: GU_geo_country=AE; path=/; Secure
+X-Timer: S1663491225.556692,VS0,VE318
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:; child-src https: blob:; object-src 'none'; base-uri https://*.gracenote.com
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+Permissions-Policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+X-Gu-Edition: int
+Cache-Control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private,no-transform
+Vary: Accept-Encoding,User-Agent
